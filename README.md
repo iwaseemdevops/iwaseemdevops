@@ -1,35 +1,56 @@
-# Hi there, I'm Waseem Aqib 👋  
+# 👋 Hey, I’m Waseem Aqib  
 
-🚀 **DevOps Engineer | Cloud Enthusiast | Open Source Learner**  
+💻 **DevOps Engineer | Cloud Enthusiast | Linux Lover**  
 
-I’m passionate about building scalable infrastructure, automation, and CI/CD pipelines.  
-Currently learning and working with **Docker, Kubernetes, Terraform, Jenkins, and AWS**.  
+🚀 Passionate about automating deployments, scaling applications, and making infrastructure simple yet powerful.  
+
+---
+
+## ⚡ About Me  
+- 🌍 From Pakistan 🇵🇰 | Open to opportunities worldwide  
+- 🔧 Skilled in **Linux, Git, Docker, Kubernetes, Jenkins, Terraform, Ansible**  
+- ☁️ Practicing on **AWS Free Tier**  
+- 📚 Currently learning **Prometheus & Grafana**  
+- 🎯 Goal: Land a DevOps Engineer role in the UK/EU/USA  
 
 ---
 
 ## 🛠️ Tech Stack  
-- 🐧 Linux | 🔧 Bash Scripting | 🐳 Docker | ☸️ Kubernetes  
-- ⚙️ Jenkins | 📦 Ansible | ☁️ AWS | 🌍 Terraform  
-- 🖥️ Git | GitHub | CI/CD | Monitoring  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,jenkins,aws,terraform,ansible,python,bash&perline=5" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Waseem's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwaseemdevops&show_icons=true&theme=radical)  
+## 📈 GitHub Stats  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwaseemdevops&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iwaseemdevops&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwaseemdevops&theme=tokyonight" alt="GitHub streak" />
+</p>
 
 ---
 
-## 🌱 Currently Working On  
-- Building **end-to-end DevOps projects**  
-- Sharing my learning journey in **Cloud & DevOps**  
+## 🚀 Featured Projects  
+
+- 🔹 [CI/CD Pipeline with Jenkins + Docker + AWS](https://github.com/iwaseemdevops/devops-projects)  
+- 🔹 [Multi-Container App with Docker Compose & Kubernetes](https://github.com/iwaseemdevops/devops-projects)  
+- 🔹 [Infrastructure as Code with Terraform](https://github.com/iwaseemdevops/devops-projects)  
 
 ---
 
-## 📫 Connect with Me  
-- 📧 Email: [iwaseemdevops@gmail.com](mailto:iwaseemdevops@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Link Here](https://linkedin.com)  
-- 🐙 GitHub: [@iwaseemdevops](https://github.com/iwaseemdevops)  
+## 📫 Connect With Me  
 
-✨ *Let’s automate the world, one pipeline at a time!*  
+<p align="center">
+  <a href="mailto:iwaseemdevops@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/iwaseemdevops"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/iwaseemdevops"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+⭐️ *“Automating today for a smoother tomorrow.”*  
